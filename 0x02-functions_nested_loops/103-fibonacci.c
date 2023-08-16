@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - Prints the sum of Even fibonacci numbers
@@ -7,7 +8,7 @@
  * Return: Nothing!
  */
 
-int Main(void)
+int main(void)
 
 {
 	int i = 0;
